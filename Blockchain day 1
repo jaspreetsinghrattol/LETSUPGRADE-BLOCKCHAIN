@@ -1,0 +1,35 @@
+Q 1 What is your understanding of blockchain?
+Ans: Blockchain is a chain or records stored in the form of blocks having immutable ledger which cannot be temper and are controlled by no single authority. Blocks are chained with previous one having hash value of previous block. It uses distributed database and cryptography to store the data. Distributed database systems provide decentralization whereas cryptography provides security in the form of hash algorithms. Because of distributed database stored data achieve decentralization and cryptography provide immutability.
+Q 2 What is the core problem, blockchain trying to solve?
+Ans: Blockchain first time came into picture after 2008 bank crisis.
+•	Authenticity
+•	Security
+•	Need of powerful third party for trust.
+The core problem blockchain is trying to solve is:
+•	Identity theft
+•	Denial of service attack
+•	Penalty and charging deduction of third party like bank.
+•	Privacy of individual data.
+•	Industries profit
+Q 3 What are the few features which Blockchain will give you? Ans: 1. Some feature of Blockchain are:
+•	Verifiable
+•	Unchangeable
+•	Tamper proof
+•	Immutable
+•	Decentralized
+Q 4 What all things does a Block Contain? Ans: Blockchain contains the following field
+•	Block number.
+•	Records/Data
+ 
+•	Previous block signature
+•	Mining key
+•
+
+
+
+
+Q 5. How is the verifiability of Blockchain is been attained ?
+Ans: Blockchain use the concept of distributed database that is single block is stored in different computers in the same format.
+Format is previous signature+block data=current signature
+As we are saving data in same format we get same current signature for the same code in all computers. Hence we can easily detect errors in the data by comparing the our current signature with different computers. We are storing the copy of data on different computers so that we can easily fix our errors by replacing our data with correct data from other computers.
+Many verification techniques e.g., Homomorphic MAC256 or RSA accumulator can detect a dishonest behavior of cloud service provider who returns incorrect search result, it cannot properly work without a trusted third party.
